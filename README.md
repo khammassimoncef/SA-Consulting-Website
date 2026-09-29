@@ -36,8 +36,8 @@ Each language has dedicated URLs (`/fr/`, `/en/`, `/ar/`) with multilingual SEO 
 
 **Frontend**
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 **Architecture & Tools**
