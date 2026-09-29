@@ -1,0 +1,25 @@
+{
+  "siteUrl": "https://saconsulting.biz",
+  "name": "SA Consulting",
+  "email": "contact@saconsulting.biz",
+  "phones": [
+    {
+      "display": "+216 54 933 932",
+      "tel": "+21654933932"
+    },
+    {
+      "display": "+216 55 509 503",
+      "tel": "+21655509503"
+    }
+  ],
+  "whatsapp": {
+    "display": "+216 54 933 932",
+    "number": "21654933932"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/sa-consulting-180b42438/",
+    "facebook": "",
+    "instagram": ""
+  },
+  "year": 2026
+}

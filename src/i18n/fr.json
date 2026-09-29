@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "lang": "fr",
+    "dir": "ltr",
+    "locale": "fr_TN",
+    "label": "Français",
+    "short": "FR",
+    "title": "SA Consulting | Cabinet de conseil en gestion, finance et fiscalité en Tunisie",
+    "description": "SA Consulting, cabinet de conseil en Tunisie : fiscalité, paie, conseil financier, contrôle de gestion, trésorerie, financement, RH et transformation numérique des entreprises.",
+    "ogTitle": "SA Consulting — Cabinet de conseil en Tunisie",
+    "ogDescription": "Structurer. Piloter. Développer. Un accompagnement en gestion, finance, fiscalité, RH et transformation pour les entreprises en Tunisie.",
+    "pages": {
+      "home": "fr/",
+      "legal": "fr/mentions-legales.html",
+      "privacy": "fr/confidentialite.html"
+    },
+    "placeholder": "Information à compléter avant publication"
+  },
+  "nav": {
+    "skip": "Aller au contenu principal",
+    "home": "Accueil",
+    "about": "À propos",
+    "expertise": "Expertises",
+    "process": "Notre démarche",
+    "contact": "Contact",
+    "cta": "Prendre rendez-vous",
+    "menu": "Ouvrir le menu",
+    "close": "Fermer le menu",
+    "langLabel": "Choisir la langue",
+    "mainLabel": "Navigation principale",
+    "homeLink": "SA Consulting — retour à l'accueil"
+  },
+  "hero": {
+    "eyebrow": "Cabinet de conseil — Tunisie",
+    "title": [
+      "Structurer.",
+      "Piloter.",
+      "Développer."
+    ],
+    "subtitle": "Votre partenaire pour structurer vos décisions, sécuriser votre gestion et accompagner le développement de votre entreprise.",
+    "pillars": [
+      "Conseil",
+      "Finance",
+      "Fiscalité",
+      "RH",
+      "Transformation"
+    ],
+    "ctaPrimary": "Prendre rendez-vous",
+    "ctaSecondary": "Découvrir nos expertises",
+    "tagline": "L'expertise qui fait la différence",
+    "taglineSub": "Votre partenaire de confiance"
+  },
+  "about": {
+    "kicker": "Le cabinet",
+    "title": "À propos de SA Consulting",
+    "lead": "SA Consulting accompagne les entreprises, dirigeants, entrepreneurs et porteurs de projets dans la structuration financière, la conformité, la performance et le développement.",
+    "body": [
+      "Notre rôle : apporter un regard structuré sur votre activité, sécuriser vos obligations et vous aider à prendre des décisions éclairées.",
+      "Chaque mission part de votre situation réelle : votre activité, vos contraintes et vos priorités. Nos recommandations sont concrètes et adaptées à vos objectifs."
+    ],
+    "valuesTitle": "Nos valeurs",
+    "values": [
+      {
+        "icon": "layers",
+        "label": "Expertise"
+      },
+      {
+        "icon": "chat",
+        "label": "Proximité"
+      },
+      {
+        "icon": "clock",
+        "label": "Réactivité"
+      },
+      {
+        "icon": "lock",
+        "label": "Confidentialité"
+      },
+      {
+        "icon": "route",
+        "label": "Accompagnement"
+      },
+      {
+        "icon": "sliders",
+        "label": "Solutions adaptées"
+      }
+    ]
+  },
+  "services": {
+    "kicker": "10 pôles d'activité",
+    "title": "Nos expertises",
+    "subtitle": "Des expertises complémentaires pour accompagner votre entreprise, de la conformité au quotidien jusqu'aux décisions stratégiques.",
+    "more": "Échanger sur ce besoin",
+    "items": [
+      {
+        "id": "fiscalite",
+        "icon": "tax",
+        "title": "Fiscalité",
+        "desc": "Déclarations fiscales, optimisation dans le respect de la réglementation et accompagnement lors des contrôles."
+      },
+      {
+        "id": "paie",
+        "icon": "payslip",
+        "title": "Paie & Gestion sociale",
+        "desc": "Établissement des bulletins de paie, déclarations sociales et suivi des obligations liées à l'emploi."
+      },
+      {
+        "id": "conseil-financier",
+        "icon": "chart",
+        "title": "Conseil financier",
+        "desc": "Analyse de la situation financière, aide à la décision et recommandations pour renforcer la solidité de l'entreprise."
+      },
+      {
+        "id": "controle-gestion",
+        "icon": "gauge",
+        "title": "Contrôle de gestion & Performance",
+        "desc": "Tableaux de bord, budgets et indicateurs clés pour piloter l'activité et mesurer la performance."
+      },
+      {
+        "id": "tresorerie",
+        "icon": "wallet",
+        "title": "Trésorerie & Fonds de roulement",
+        "desc": "Prévisions de trésorerie, gestion du besoin en fonds de roulement et maîtrise des flux financiers."
+      },
+      {
+        "id": "strategie",
+        "icon": "compass",
+        "title": "Conseil en stratégie & développement",
+        "desc": "Réflexion stratégique, business plans et accompagnement des projets de croissance."
+      },
+      {
+        "id": "financement",
+        "icon": "bank",
+        "title": "Financement & Opérations financières",
+        "desc": "Préparation des dossiers de financement, recherche de solutions adaptées et accompagnement des opérations financières."
+      },
+      {
+        "id": "numerique",
+        "icon": "digital",
+        "title": "Transformation numérique",
+        "desc": "Digitalisation des processus de gestion et choix d'outils adaptés pour gagner en efficacité."
+      },
+      {
+        "id": "rh",
+        "icon": "people",
+        "title": "Ressources humaines",
+        "desc": "Organisation et structuration de la fonction RH, accompagnement dans la gestion des équipes."
+      },
+      {
+        "id": "controle-interne",
+        "icon": "shield",
+        "title": "Contrôle interne & Gestion des risques",
+        "desc": "Évaluation des procédures, identification des risques et mise en place de dispositifs de contrôle."
+      }
+    ]
+  },
+  "clients": {
+    "kicker": "Nos clients",
+    "title": "Nous accompagnons",
+    "intro": "SA Consulting intervient auprès de profils variés, à chaque étape de la vie de l'entreprise.",
+    "cta": "Parler de votre situation",
+    "items": [
+      {
+        "icon": "sprout",
+        "title": "Créateurs d'entreprise",
+        "desc": "Poser des bases solides dès le lancement."
+      },
+      {
+        "icon": "store",
+        "title": "TPE & PME",
+        "desc": "Structurer la gestion et gagner en visibilité."
+      },
+      {
+        "icon": "trend",
+        "title": "Startups & entreprises en croissance",
+        "desc": "Accompagner le changement d'échelle."
+      },
+      {
+        "icon": "briefcase",
+        "title": "Investisseurs & porteurs de projets",
+        "desc": "Étudier, structurer et sécuriser les projets."
+      },
+      {
+        "icon": "coins",
+        "title": "Entreprises en recherche de financement",
+        "desc": "Préparer des dossiers solides et crédibles."
+      },
+      {
+        "icon": "lifebuoy",
+        "title": "Entreprises en difficulté financière",
+        "desc": "Analyser la situation et définir des mesures de redressement."
+      },
+      {
+        "icon": "cycle",
+        "title": "Entreprises en transformation",
+        "desc": "Faire évoluer l'organisation, les processus et les outils."
+      }
+    ]
+  },
+  "why": {
+    "kicker": "Nos engagements",
+    "title": "Pourquoi SA Consulting ?",
+    "subtitle": "Une relation de travail fondée sur la confiance, la rigueur et l'écoute.",
+    "items": [
+      {
+        "icon": "layers",
+        "title": "Expertise",
+        "desc": "Une approche professionnelle et structurée."
+      },
+      {
+        "icon": "chat",
+        "title": "Proximité",
+        "desc": "Une relation fondée sur l'écoute et la compréhension des besoins."
+      },
+      {
+        "icon": "clock",
+        "title": "Réactivité",
+        "desc": "Un accompagnement adapté aux enjeux du quotidien."
+      },
+      {
+        "icon": "lock",
+        "title": "Confidentialité",
+        "desc": "Une approche professionnelle respectueuse des informations de l'entreprise."
+      },
+      {
+        "icon": "route",
+        "title": "Accompagnement",
+        "desc": "Des solutions adaptées aux besoins et aux objectifs."
+      }
+    ]
+  },
+  "process": {
+    "kicker": "Méthode",
+    "title": "Notre démarche",
+    "subtitle": "Cinq étapes pour avancer avec méthode.",
+    "steps": [
+      {
+        "title": "Comprendre",
+        "desc": "Écouter et identifier les besoins."
+      },
+      {
+        "title": "Analyser",
+        "desc": "Étudier la situation et les enjeux."
+      },
+      {
+        "title": "Conseiller",
+        "desc": "Proposer des recommandations adaptées."
+      },
+      {
+        "title": "Accompagner",
+        "desc": "Aider à mettre en œuvre les solutions."
+      },
+      {
+        "title": "Suivre",
+        "desc": "Assurer le suivi de l'accompagnement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Parlons de votre projet.",
+    "text": "Vous souhaitez structurer votre activité, améliorer votre gestion ou être accompagné dans votre développement ? Échangeons sur vos besoins.",
+    "booking": "Prendre rendez-vous",
+    "whatsapp": "WhatsApp",
+    "call": "Appeler",
+    "email": "Email"
+  },
+  "contact": {
+    "kicker": "Nous joindre",
+    "title": "Contactez-nous",
+    "intro": "Une question, un projet ou un besoin d'accompagnement ? Écrivez-nous, appelez-nous ou contactez-nous sur WhatsApp.",
+    "email": "Email",
+    "phone": "Téléphone",
+    "phone2": "Deuxième téléphone",
+    "whatsapp": "WhatsApp",
+    "whatsappAction": "Envoyer un message",
+    "location": "Localisation",
+    "locationValue": "Tunisie",
+    "linkedin": "LinkedIn",
+    "linkedinAction": "Suivre SA Consulting sur LinkedIn",
+    "linkedinAria": "Page LinkedIn officielle de SA Consulting (nouvel onglet)"
+  },
+  "form": {
+    "title": "Envoyer une demande",
+    "requiredNote": "Les champs marqués d'un * sont obligatoires.",
+    "name": "Nom et prénom",
+    "company": "Entreprise",
+    "email": "Email",
+    "phone": "Téléphone",
+    "service": "Service recherché",
+    "servicePlaceholder": "Sélectionnez un service",
+    "serviceOther": "Autre demande",
+    "message": "Message",
+    "messagePlaceholder": "Décrivez brièvement votre besoin…",
+    "submit": "Envoyer ma demande",
+    "sending": "Envoi en cours…",
+    "privacy": "Les informations transmises sont utilisées uniquement pour traiter votre demande. Voir notre",
+    "privacyLink": "politique de confidentialité",
+    "errors": {
+      "required": "Ce champ est obligatoire.",
+      "email": "Veuillez saisir une adresse email valide.",
+      "phone": "Veuillez saisir un numéro de téléphone valide.",
+      "message": "Votre message doit contenir au moins 10 caractères.",
+      "summary": "Merci de corriger les champs signalés."
+    },
+    "success": "Merci, votre demande a bien été envoyée. Nous revenons vers vous dans les meilleurs délais.",
+    "error": "L'envoi n'a pas pu aboutir. Veuillez réessayer ou nous contacter directement par email ou WhatsApp.",
+    "notConfigured": "L'envoi en ligne n'est pas encore activé. Vous pouvez envoyer cette demande depuis votre messagerie ou nous contacter sur WhatsApp.",
+    "mailFallback": "Envoyer via ma messagerie",
+    "spam": "Votre envoi n'a pas pu être validé. Merci de patienter quelques secondes puis de réessayer.",
+    "subject": "Nouvelle demande depuis le site SA Consulting"
+  },
+  "whatsappMessage": "Bonjour SA Consulting, je souhaite obtenir des informations concernant vos services.",
+  "whatsappFloat": "Nous écrire sur WhatsApp",
+  "footer": {
+    "tagline": "Cabinet de conseil • Finance • Fiscalité • RH • Transformation",
+    "partner": "Votre partenaire de confiance.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "legalTitle": "Informations",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "rights": "Tous droits réservés.",
+    "backTop": "Retour en haut"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "metaDescription": "Mentions légales du site saconsulting.biz — SA Consulting, cabinet de conseil en Tunisie.",
+    "intro": "Conformément aux usages en vigueur, vous trouverez ci-dessous les informations relatives à l'éditeur et à l'hébergeur du site saconsulting.biz.",
+    "sections": [
+      {
+        "h": "Éditeur du site",
+        "rows": [
+          [
+            "Nom commercial",
+            "SA Consulting"
+          ],
+          [
+            "Raison sociale",
+            null
+          ],
+          [
+            "Forme juridique",
+            null
+          ],
+          [
+            "Identifiant unique / Registre national des entreprises (RNE)",
+            null
+          ],
+          [
+            "Matricule fiscal",
+            null
+          ],
+          [
+            "Adresse du siège",
+            null
+          ],
+          [
+            "Pays",
+            "Tunisie"
+          ],
+          [
+            "Email",
+            "{email}"
+          ],
+          [
+            "Téléphone",
+            "{phone1} / {phone2}"
+          ],
+          [
+            "Responsable de la publication",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Hébergement",
+        "rows": [
+          [
+            "Hébergeur",
+            null
+          ],
+          [
+            "Adresse de l'hébergeur",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Propriété intellectuelle",
+        "p": "L'ensemble des contenus de ce site (textes, logo, éléments graphiques, photographies) est la propriété de SA Consulting ou des personnes représentées, sauf mention contraire. Toute reproduction, totale ou partielle, sans autorisation préalable est interdite."
+      },
+      {
+        "h": "Responsabilité",
+        "p": "Les informations publiées sur ce site sont fournies à titre indicatif et ne constituent pas un conseil personnalisé. Pour toute situation particulière, contactez SA Consulting."
+      },
+      {
+        "h": "Contact",
+        "p": "Pour toute question relative au site : {email}."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Politique de confidentialité",
+    "metaDescription": "Politique de confidentialité du site saconsulting.biz — traitement des données transmises via le formulaire de contact.",
+    "intro": "SA Consulting accorde une grande importance à la confidentialité des informations qui lui sont confiées. Cette page explique quelles données sont collectées sur ce site et comment elles sont utilisées.",
+    "sections": [
+      {
+        "h": "Responsable du traitement",
+        "rows": [
+          [
+            "Nom",
+            "SA Consulting"
+          ],
+          [
+            "Email",
+            "{email}"
+          ],
+          [
+            "Adresse",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Données collectées",
+        "p": "Via le formulaire de contact : nom et prénom, entreprise (facultatif), adresse email, téléphone (facultatif), service recherché et contenu du message. Aucune autre donnée personnelle n'est collectée volontairement par ce site."
+      },
+      {
+        "h": "Finalité",
+        "p": "Ces données sont utilisées uniquement pour répondre à votre demande et, le cas échéant, assurer le suivi de la relation. Elles ne sont ni vendues ni cédées à des tiers à des fins commerciales."
+      },
+      {
+        "h": "Transmission",
+        "p": "Les messages du formulaire sont acheminés vers l'adresse {email} par l'intermédiaire du service d'envoi de formulaires Web3Forms. Les liens WhatsApp ouvrent l'application WhatsApp, soumise à ses propres conditions."
+      },
+      {
+        "h": "Durée de conservation",
+        "rows": [
+          [
+            "Durée de conservation des demandes",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Cookies et stockage local",
+        "p": "Ce site n'utilise pas de cookies publicitaires ni d'outil de mesure d'audience. Seule votre préférence de langue (FR, EN ou AR) est enregistrée dans le stockage local de votre navigateur afin de conserver votre choix."
+      },
+      {
+        "h": "Vos droits",
+        "p": "Conformément à la loi organique n° 2004-63 du 27 juillet 2004 relative à la protection des données à caractère personnel, vous pouvez demander l'accès, la rectification ou la suppression de vos données en écrivant à {email}."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "back": "Retour à l'accueil"
+  },
+  "legalBack": "Retour à l'accueil",
+  "connect": {
+    "title": "SA Consulting — Contact",
+    "description": "Contactez SA Consulting, cabinet de conseil en Tunisie : site web, WhatsApp, e-mail, LinkedIn et téléphone.",
+    "tagline": "Cabinet de conseil • Finance • Fiscalité • RH • Transformation",
+    "linksLabel": "Nous contacter",
+    "website": "Visiter notre site",
+    "websiteSub": "saconsulting.biz",
+    "whatsapp": "Nous contacter sur WhatsApp",
+    "email": "Envoyer un e-mail",
+    "linkedin": "Suivez-nous sur LinkedIn",
+    "linkedinSub": "Page officielle SA Consulting",
+    "phoneSub": "Appeler",
+    "newTab": "(nouvel onglet)",
+    "privacy": "Politique de confidentialité",
+    "langLabel": "Choisir la langue"
+  }
+}

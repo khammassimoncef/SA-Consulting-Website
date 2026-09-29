@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "lang": "en",
+    "dir": "ltr",
+    "locale": "en_US",
+    "label": "English",
+    "short": "EN",
+    "title": "SA Consulting | Management, Finance & Tax Consulting Firm in Tunisia",
+    "description": "SA Consulting is a consulting firm in Tunisia supporting businesses with tax, payroll, financial advisory, management control, cash management, financing, HR and digital transformation.",
+    "ogTitle": "SA Consulting — Consulting firm in Tunisia",
+    "ogDescription": "Structure. Steer. Grow. Advisory in management, finance, tax, HR and transformation for businesses in Tunisia.",
+    "pages": {
+      "home": "en/",
+      "legal": "en/legal-notice.html",
+      "privacy": "en/privacy-policy.html"
+    },
+    "placeholder": "Information to be completed before publication"
+  },
+  "nav": {
+    "skip": "Skip to main content",
+    "home": "Home",
+    "about": "About",
+    "expertise": "Expertise",
+    "process": "Our approach",
+    "contact": "Contact",
+    "cta": "Book a meeting",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "langLabel": "Choose language",
+    "mainLabel": "Main navigation",
+    "homeLink": "SA Consulting — back to home"
+  },
+  "hero": {
+    "eyebrow": "Consulting firm — Tunisia",
+    "title": [
+      "Structure.",
+      "Steer.",
+      "Grow."
+    ],
+    "subtitle": "Your partner in structuring decisions, securing your financial management and supporting your company's growth.",
+    "pillars": [
+      "Advisory",
+      "Finance",
+      "Tax",
+      "HR",
+      "Transformation"
+    ],
+    "ctaPrimary": "Book a meeting",
+    "ctaSecondary": "Explore our expertise",
+    "tagline": "Expertise that makes the difference",
+    "taglineSub": "Your trusted partner"
+  },
+  "about": {
+    "kicker": "The firm",
+    "title": "About SA Consulting",
+    "lead": "SA Consulting supports companies, business leaders, entrepreneurs and project owners with financial structuring, compliance, performance and growth.",
+    "body": [
+      "Our role is to bring a structured perspective to your business, secure your obligations and help you make well-informed decisions.",
+      "Every engagement starts from your actual situation: your business, your constraints and your priorities. Our recommendations are practical and aligned with your objectives."
+    ],
+    "valuesTitle": "Our values",
+    "values": [
+      {
+        "icon": "layers",
+        "label": "Expertise"
+      },
+      {
+        "icon": "chat",
+        "label": "Close relationship"
+      },
+      {
+        "icon": "clock",
+        "label": "Responsiveness"
+      },
+      {
+        "icon": "lock",
+        "label": "Confidentiality"
+      },
+      {
+        "icon": "route",
+        "label": "Ongoing support"
+      },
+      {
+        "icon": "sliders",
+        "label": "Tailored solutions"
+      }
+    ]
+  },
+  "services": {
+    "kicker": "10 practice areas",
+    "title": "Our expertise",
+    "subtitle": "Complementary areas of expertise to support your business, from day-to-day compliance to strategic decisions.",
+    "more": "Discuss this need",
+    "items": [
+      {
+        "id": "fiscalite",
+        "icon": "tax",
+        "title": "Tax",
+        "desc": "Tax filings, compliant tax optimisation and support during tax audits."
+      },
+      {
+        "id": "paie",
+        "icon": "payslip",
+        "title": "Payroll & Employment Administration",
+        "desc": "Payslip preparation, social security filings and management of employment-related obligations."
+      },
+      {
+        "id": "conseil-financier",
+        "icon": "chart",
+        "title": "Financial Advisory",
+        "desc": "Analysis of your financial position, decision support and recommendations to strengthen your company's footing."
+      },
+      {
+        "id": "controle-gestion",
+        "icon": "gauge",
+        "title": "Management Control & Performance",
+        "desc": "Dashboards, budgets and key indicators to steer operations and measure performance."
+      },
+      {
+        "id": "tresorerie",
+        "icon": "wallet",
+        "title": "Cash & Working Capital",
+        "desc": "Cash-flow forecasting, working capital management and control of financial flows."
+      },
+      {
+        "id": "strategie",
+        "icon": "compass",
+        "title": "Strategy & Business Development",
+        "desc": "Strategic thinking, business plans and support for growth initiatives."
+      },
+      {
+        "id": "financement",
+        "icon": "bank",
+        "title": "Financing & Financial Transactions",
+        "desc": "Preparation of financing applications, identification of suitable options and support with financial transactions."
+      },
+      {
+        "id": "numerique",
+        "icon": "digital",
+        "title": "Digital Transformation",
+        "desc": "Digitalisation of management processes and selection of the right tools to work more efficiently."
+      },
+      {
+        "id": "rh",
+        "icon": "people",
+        "title": "Human Resources",
+        "desc": "Organising and structuring the HR function, and support in managing your teams."
+      },
+      {
+        "id": "controle-interne",
+        "icon": "shield",
+        "title": "Internal Control & Risk Management",
+        "desc": "Process assessment, risk identification and implementation of control frameworks."
+      }
+    ]
+  },
+  "clients": {
+    "kicker": "Our clients",
+    "title": "Who we support",
+    "intro": "SA Consulting works with a wide range of clients, at every stage of a company's life.",
+    "cta": "Tell us about your situation",
+    "items": [
+      {
+        "icon": "sprout",
+        "title": "Business founders",
+        "desc": "Laying solid foundations from day one."
+      },
+      {
+        "icon": "store",
+        "title": "Small & medium-sized businesses",
+        "desc": "Structuring management and gaining visibility."
+      },
+      {
+        "icon": "trend",
+        "title": "Startups & growing companies",
+        "desc": "Supporting the move to the next scale."
+      },
+      {
+        "icon": "briefcase",
+        "title": "Investors & project owners",
+        "desc": "Assessing, structuring and securing projects."
+      },
+      {
+        "icon": "coins",
+        "title": "Companies seeking financing",
+        "desc": "Preparing solid, credible funding applications."
+      },
+      {
+        "icon": "lifebuoy",
+        "title": "Companies facing financial difficulties",
+        "desc": "Analysing the situation and defining recovery measures."
+      },
+      {
+        "icon": "cycle",
+        "title": "Companies undergoing transformation",
+        "desc": "Evolving the organisation, processes and tools."
+      }
+    ]
+  },
+  "why": {
+    "kicker": "Our commitments",
+    "title": "Why SA Consulting?",
+    "subtitle": "A working relationship built on trust, rigour and attentive listening.",
+    "items": [
+      {
+        "icon": "layers",
+        "title": "Expertise",
+        "desc": "A professional, structured approach."
+      },
+      {
+        "icon": "chat",
+        "title": "Close relationship",
+        "desc": "A relationship built on listening and a clear understanding of your needs."
+      },
+      {
+        "icon": "clock",
+        "title": "Responsiveness",
+        "desc": "Support adapted to day-to-day challenges."
+      },
+      {
+        "icon": "lock",
+        "title": "Confidentiality",
+        "desc": "A professional approach that respects your company's information."
+      },
+      {
+        "icon": "route",
+        "title": "Ongoing support",
+        "desc": "Solutions tailored to your needs and objectives."
+      }
+    ]
+  },
+  "process": {
+    "kicker": "Method",
+    "title": "Our approach",
+    "subtitle": "Five steps to move forward methodically.",
+    "steps": [
+      {
+        "title": "Understand",
+        "desc": "Listen and identify your needs."
+      },
+      {
+        "title": "Analyse",
+        "desc": "Study the situation and what is at stake."
+      },
+      {
+        "title": "Advise",
+        "desc": "Put forward tailored recommendations."
+      },
+      {
+        "title": "Support",
+        "desc": "Help implement the solutions."
+      },
+      {
+        "title": "Follow up",
+        "desc": "Ensure continued follow-up of the engagement."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Let's talk about your project.",
+    "text": "Looking to structure your business, strengthen your management or get support as you grow? Let's discuss your needs.",
+    "booking": "Book a meeting",
+    "whatsapp": "WhatsApp",
+    "call": "Call us",
+    "email": "Email"
+  },
+  "contact": {
+    "kicker": "Get in touch",
+    "title": "Contact us",
+    "intro": "A question, a project or a need for support? Write to us, call us or reach us on WhatsApp.",
+    "email": "Email",
+    "phone": "Phone",
+    "phone2": "Second phone",
+    "whatsapp": "WhatsApp",
+    "whatsappAction": "Send a message",
+    "location": "Location",
+    "locationValue": "Tunisia",
+    "linkedin": "LinkedIn",
+    "linkedinAction": "Follow SA Consulting on LinkedIn",
+    "linkedinAria": "SA Consulting official LinkedIn page (opens in a new tab)"
+  },
+  "form": {
+    "title": "Send us a request",
+    "requiredNote": "Fields marked with * are required.",
+    "name": "Full name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "service": "Service required",
+    "servicePlaceholder": "Select a service",
+    "serviceOther": "Other request",
+    "message": "Message",
+    "messagePlaceholder": "Briefly describe your needs…",
+    "submit": "Send my request",
+    "sending": "Sending…",
+    "privacy": "The information you provide is used solely to handle your request. See our",
+    "privacyLink": "privacy policy",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Please enter a valid email address.",
+      "phone": "Please enter a valid phone number.",
+      "message": "Your message must be at least 10 characters long.",
+      "summary": "Please correct the highlighted fields."
+    },
+    "success": "Thank you — your request has been sent. We will get back to you as soon as possible.",
+    "error": "Your request could not be sent. Please try again or contact us directly by email or WhatsApp.",
+    "notConfigured": "Online sending is not yet enabled. You can send this request from your email app or contact us on WhatsApp.",
+    "mailFallback": "Send from my email app",
+    "spam": "Your submission could not be validated. Please wait a few seconds and try again.",
+    "subject": "New request from the SA Consulting website"
+  },
+  "whatsappMessage": "Hello SA Consulting, I would like some information about your services.",
+  "whatsappFloat": "Message us on WhatsApp",
+  "footer": {
+    "tagline": "Consulting firm • Finance • Tax • HR • Transformation",
+    "partner": "Your trusted partner.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "legalTitle": "Information",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved.",
+    "backTop": "Back to top"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "metaDescription": "Legal notice for saconsulting.biz — SA Consulting, consulting firm in Tunisia.",
+    "intro": "Below you will find information about the publisher and host of the saconsulting.biz website.",
+    "sections": [
+      {
+        "h": "Website publisher",
+        "rows": [
+          [
+            "Trading name",
+            "SA Consulting"
+          ],
+          [
+            "Registered company name",
+            null
+          ],
+          [
+            "Legal form",
+            null
+          ],
+          [
+            "Unique identifier / National Business Register (RNE)",
+            null
+          ],
+          [
+            "Tax identification number",
+            null
+          ],
+          [
+            "Registered office address",
+            null
+          ],
+          [
+            "Country",
+            "Tunisia"
+          ],
+          [
+            "Email",
+            "{email}"
+          ],
+          [
+            "Phone",
+            "{phone1} / {phone2}"
+          ],
+          [
+            "Publication director",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Hosting",
+        "rows": [
+          [
+            "Hosting provider",
+            null
+          ],
+          [
+            "Hosting provider address",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Intellectual property",
+        "p": "All content on this website (text, logo, graphic elements, photographs) is the property of SA Consulting or of the people pictured, unless otherwise stated. Any full or partial reproduction without prior permission is prohibited."
+      },
+      {
+        "h": "Liability",
+        "p": "The information published on this website is provided for general information only and does not constitute personalised advice. For any specific situation, please contact SA Consulting."
+      },
+      {
+        "h": "Contact",
+        "p": "For any question about this website: {email}."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Privacy policy",
+    "metaDescription": "Privacy policy for saconsulting.biz — how data submitted through the contact form is handled.",
+    "intro": "SA Consulting attaches great importance to the confidentiality of the information entrusted to it. This page explains what data this website collects and how it is used.",
+    "sections": [
+      {
+        "h": "Data controller",
+        "rows": [
+          [
+            "Name",
+            "SA Consulting"
+          ],
+          [
+            "Email",
+            "{email}"
+          ],
+          [
+            "Address",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Data collected",
+        "p": "Through the contact form: full name, company (optional), email address, phone number (optional), service required and message content. No other personal data is intentionally collected by this website."
+      },
+      {
+        "h": "Purpose",
+        "p": "This data is used solely to respond to your request and, where relevant, to follow up on the relationship. It is never sold or transferred to third parties for marketing purposes."
+      },
+      {
+        "h": "Transmission",
+        "p": "Form messages are delivered to {email} through the Web3Forms form delivery service. WhatsApp links open the WhatsApp application, which is subject to its own terms."
+      },
+      {
+        "h": "Retention period",
+        "rows": [
+          [
+            "Retention period for requests",
+            null
+          ]
+        ]
+      },
+      {
+        "h": "Cookies and local storage",
+        "p": "This website does not use advertising cookies or audience measurement tools. Only your language preference (FR, EN or AR) is saved in your browser's local storage so that your choice is remembered."
+      },
+      {
+        "h": "Your rights",
+        "p": "In accordance with Tunisian Organic Law No. 2004-63 of 27 July 2004 on the protection of personal data, you may request access to, correction of or deletion of your data by writing to {email}."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has been moved.",
+    "back": "Back to home"
+  },
+  "legalBack": "Back to home",
+  "connect": {
+    "title": "SA Consulting — Contact",
+    "description": "Get in touch with SA Consulting, a consulting firm in Tunisia: website, WhatsApp, email, LinkedIn and phone.",
+    "tagline": "Consulting firm • Finance • Tax • HR • Transformation",
+    "linksLabel": "Contact us",
+    "website": "Visit our website",
+    "websiteSub": "saconsulting.biz",
+    "whatsapp": "Contact us on WhatsApp",
+    "email": "Send an email",
+    "linkedin": "Follow us on LinkedIn",
+    "linkedinSub": "Official SA Consulting page",
+    "phoneSub": "Call",
+    "newTab": "(opens in a new tab)",
+    "privacy": "Privacy policy",
+    "langLabel": "Choose language"
+  }
+}
